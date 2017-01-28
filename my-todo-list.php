@@ -3,7 +3,7 @@
 * Plugin Name: My Todo List
 * Description: Simple todo list plugin
 * Version: 1.0
-* Author: Brad Traversy
+* Author: Benjamin Mercer
 *
 **/
 

@@ -3,7 +3,7 @@
 	if(is_admin()){
 		// Add Scripts
 		function mtl_add_admin_scripts(){
-			wp_enqueue_style('mtl-admin-style', plugins_url().'/my-todo-list/css/style-admin.css');	
+			wp_enqueue_style('mtl-admin-style', plugins_url().'/my-todo-list/css/style-admin.css');
 		}
 
 		add_action('admin_init', 'mtl_add_admin_scripts');
